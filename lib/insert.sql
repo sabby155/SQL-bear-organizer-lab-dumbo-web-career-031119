@@ -8,7 +8,7 @@ INSERT INTO bears (name)
 VALUES ("Rowdy")
 
 INSERT INTO bears (name)
-VALUES ("Mr. Chocolate")
+VALUES ("Tabitha")
 
 INSERT INTO bears (name)
 VALUES ("Mr. Chocolate")
