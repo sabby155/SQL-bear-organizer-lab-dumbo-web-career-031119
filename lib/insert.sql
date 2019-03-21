@@ -20,4 +20,4 @@ INSERT INTO bears (name)
 VALUES ("Grinch")
 
 INSERT INTO bears (name)
-VALUES ("Mr. Chocolate")
+VALUES ("Wendy")
