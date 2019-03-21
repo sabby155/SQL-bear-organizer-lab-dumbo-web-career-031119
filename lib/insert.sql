@@ -7,4 +7,5 @@ VALUES
 ("Tabitha", 20, "female", "brown", "elegant", 0),
 ("Sergeant Brown", 32, "male", "brown", "tough", 0),
 ("Grinch", 82, "female", "brown", "green", 1),
-("Wendy", 2, "female", "brown", "cute", 1)
+("Wendy", 2, "female", "brown", "cute", 1),
+(NULL, 2, "female", "brown", "cute", 1)
