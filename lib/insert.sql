@@ -1,5 +1,5 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ("Mr. Chocolate", 12, "female", "brown", "")
+VALUES ("Mr. Chocolate", 12, "female", "brown", "chill", )
 
 INSERT INTO bears (name)
 VALUES ("Mr. Chocolate")
