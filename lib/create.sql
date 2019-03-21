@@ -1,1 +1,4 @@
-CREATE TABLE
+CREATE TABLE bears (
+  ID PRIMARY KEY text
+  
+)
