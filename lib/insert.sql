@@ -11,7 +11,7 @@ INSERT INTO bears (name)
 VALUES ("Tabitha")
 
 INSERT INTO bears (name)
-VALUES ("Mr. Chocolate")
+VALUES ("Sergeant Brown")
 
 INSERT INTO bears (name)
 VALUES ("Mr. Chocolate")
