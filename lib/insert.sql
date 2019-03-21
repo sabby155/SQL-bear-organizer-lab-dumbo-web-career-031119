@@ -1,2 +1,23 @@
-INSERT INTO bears (name, name)
-VALUES ("Mr. Chocolate", "Rowdy")
+INSERT INTO bears (name)
+VALUES ("Mr. Chocolate")
+
+INSERT INTO bears (name)
+VALUES ("Mr. Chocolate")
+
+INSERT INTO bears (name)
+VALUES ("Rowdy")
+
+INSERT INTO bears (name)
+VALUES ("Mr. Chocolate")
+
+INSERT INTO bears (name)
+VALUES ("Mr. Chocolate")
+
+INSERT INTO bears (name)
+VALUES ("Mr. Chocolate")
+
+INSERT INTO bears (name)
+VALUES ("Mr. Chocolate")
+
+INSERT INTO bears (name)
+VALUES ("Mr. Chocolate")
