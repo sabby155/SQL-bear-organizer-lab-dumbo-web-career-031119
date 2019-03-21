@@ -1,2 +1,2 @@
-INSERT INTO fans (name, artist_id)
+INSERT INTO bears (name, artist_id)
 VALUES ("Sabrina", 169)
